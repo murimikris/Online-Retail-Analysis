@@ -3,7 +3,7 @@ Step into the shoes of an entry-level data analyst at an online retail company, 
 
 ### Introduction
 
-This report comprehensively analyses transactional data from an online retail store, focusing on sales trends, customer behaviors, and product popularity. Our dataset exploration has uncovered critical insights that can be leveraged to enhance business strategies and customer satisfaction. Key findings and visualizations from the analysis are detailed below.
+This report comprehensively analyses transactional data from an online retail store, focusing on sales trends, customer behaviours, and product popularity. Our dataset exploration has uncovered critical insights that can be leveraged to enhance business strategies and customer satisfaction. Key findings and visualizations from the analysis are detailed below.
 
 ### Key Findings
 
