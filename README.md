@@ -3,35 +3,40 @@ Step into the shoes of an entry-level data analyst at an online retail company, 
 
 ### Introduction
 
-This report presents a comprehensive analysis of transactional data from an online retail store, focusing on sales trends, customer behaviors, and product popularity. Our exploration of the dataset has uncovered critical insights that can be leveraged to enhance business strategies and customer satisfaction. Key findings and visualizations from the analysis are detailed below.
+This report comprehensively analyses transactional data from an online retail store, focusing on sales trends, customer behaviors, and product popularity. Our dataset exploration has uncovered critical insights that can be leveraged to enhance business strategies and customer satisfaction. Key findings and visualizations from the analysis are detailed below.
 
 ### Key Findings
 
 #### Sales Trends Over Time
   
-The time series analysis reveals a seasonal peak towards the end of the year, starting in September through November. Sales increase as the year progresses peaking in November. December has the lowest sales in the year.
+The time series analysis reveals a seasonal peak towards the end of the year, starting in September through November. Sales increase as the year progresses peaking in November. December has the lowest sales of the year.
+![Monthly-sales-trend](https://github.com/user-attachments/assets/88082774-5ee1-46b6-a72c-a2d6f7893ce2)
+
 
 #### Country-Specific Sales Performance
 
 The United Kingdom is the main market for the business supplying the vast majority of sales. The other major markets for the business are Germany, France, Ireland(Eire) and Spain. This suggests the business has a predominantly West European market. The lowest sales were experienced in Brazil, Lithuania, Bahrain, Saudi Arabia and the Czech Republic.
+![top-sales-trend-countries](https://github.com/user-attachments/assets/054b633d-b7fe-46a1-a9fb-1e652b38da5e)
+
 
 #### Top Selling and High Revenue Products
 
-The analysis of product popularity shows specific items driving the majority of quantities sold and revenue. These bestsellers and high revenue generators are crucial for targeted advertising and stock prioritization. The top selling products are: Assorted colour bird ornament, lunch bag red retrospot, jumbo bag red retrospot, lunch bag black skull and, jam making set printed. Bags are the top selling product accounting for 6 of the top 10 sales.
+The analysis of product popularity shows specific items driving the majority of quantities sold and revenue. These bestsellers and high-revenue generators are crucial for targeted advertising and stock prioritization. The top selling products are: Assorted colour bird ornament, lunch bag red retrospot, jumbo bag red retrospot, lunch bag black skull and, jam making set printed. Bags are the top selling product accounting for 6 of the top 10 sales.
 
-The top revenue earners for the store include; Jumbo bag red retrospot, White hanging heart t-light holder, Assorted colour bird ornament, Lunch bag red retrospot and Jam making set with jars. There is some overlap between the top sales products and the top revenue earners. Bags make up 3 of the top ten revenue earners, setting them apart as the best performing commodity for the business.
+The top revenue earners for the store include a jumbo bag red retrospot, White hanging heart t-light holder, Assorted colour bird ornament, Lunch bag red retrospot and Jam making set with jars. There is some overlap between the top sales products and the top revenue earners. Bags make up 3 of the top ten revenue earners, setting them apart as the best-performing commodity for the business.
 
-#### Sales quantity Correlation with Pricing
-An analysis of the relationship between unit price and sales indicate a slight negative correlation. This reveals that as unit price increases, sales slightly decrease. Products at a lower price point sell more than products at higher price points.
+#### Sales Quantity Correlation with Pricing
+An analysis of the relationship between unit price and sales indicates a slight negative correlation. This reveals that as unit price increases, sales slightly decrease. Products at a lower price point sell more than products at higher price points.
 
 #### Day of the Week Analysis
 Sales performance by day of the week shows variability, with some days significantly outperforming others. Weekends have the lowest sales in the week. This is likely impacted by the business being closed on Saturday. Customers may assume that the business is closed all weekend as it is more common for stores to be closed on Sunday instead.
 
-The business makes more sales in the mid week with Tuesday, Wednesday and, Thursday enjoying the highest sales of thee week.
+The business makes more sales in the midweek with Tuesday, Wednesday and, Thursday enjoying the highest sales of the week.
+![Annual-daily-sales](https://github.com/user-attachments/assets/9737a0ad-0c55-4e92-a20b-28f0709e7709)
 
 #### Price Distribution Across Countries
 
-An exploration of price across countries reveals that Brazil, whichis one of the poorest performing countries in sales, has the highest pricing. The lowest price point in brazil is about the median price in all other regions. This shows inflated pricing in Brazil and may be a contributing factor to the poor performance of that market. This suggests opportunities for price optimization based on regional market dynamics.
+An exploration of prices across countries reveals that Brazil, which is one of the poorest-performing countries in sales, has the highest pricing. The lowest price point in Brazil is about the median price in all other regions. This shows inflated pricing in Brazil and may be a contributing factor to the poor performance of that market. This suggests opportunities for price optimization based on regional market dynamics.
 
 ### Recommendations
 
@@ -48,7 +53,7 @@ Adjust Pricing Strategies in Brazil: The analysis indicates that Brazil has sign
 Localized Promotions: Implement localized promotions and marketing campaigns in low-performing regions to stimulate demand and increase sales.
 
 4. Capitalize on Top Selling and High Revenue Products
-Promote Top Sellers: Focus marketing efforts on top-selling items such as assorted color bird ornaments, lunch bags, and jam making sets. Highlight these products in advertising campaigns and feature them prominently on the website.
+Promote Top Sellers: Focus marketing efforts on top-selling items such as assorted color bird ornaments, lunch bags, and jam-making sets. Highlight these products in advertising campaigns and feature them prominently on the website.
 Enhance Stock Levels: Ensure sufficient stock levels for these high-demand items to prevent stockouts and lost sales opportunities.
 
 5. Adjust Pricing Strategies to Boost Sales Volume
@@ -63,4 +68,4 @@ By implementing these recommendations, the online retail store can enhance its o
 
 ### Conclusion
 
-The exploratory data analysis provides actionable insights that can drive strategic business decisions to enhance the store's overall performance. By focusing on data-driven decisions, the retail store can optimize operations, improve customer satisfaction, and increase profitability in the competitive online retail market. Further analysis could delve into customer segmentation, predictive modeling for sales forecasting, and deeper analysis of customer purchase patterns to refine these recommendations.
+The exploratory data analysis provides actionable insights that can drive strategic business decisions to enhance the store's overall performance. By focusing on data-driven decisions, the retail store can optimize operations, improve customer satisfaction, and increase profitability in the competitive online retail market. Further analysis could delve into customer segmentation, predictive modelling for sales forecasting, and deeper analysis of customer purchase patterns to refine these recommendations.
